@@ -7,4 +7,3 @@
 162.159.48.114#Free CFnodes 19.67m/s
 162.159.14.62#Free CFnodes 19.47m/s
 162.159.42.66#Free CFnodes 18.87m/s
-162.159.51.80#Free CFnodes 0.0m/s

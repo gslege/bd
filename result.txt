@@ -1,10 +1,10 @@
-162.159.49.145#Free|CFnodes|23.9m/s
-162.159.32.22#Free|CFnodes|22.84m/s
-198.41.223.173#Free|CFnodes|22.34m/s
-162.159.24.121#Free|CFnodes|21.8m/s
-162.159.62.230#Free|CFnodes|21.7m/s
-162.159.60.177#Free|CFnodes|21.47m/s
-162.159.48.114#Free|CFnodes|19.67m/s
-162.159.14.62#Free|CFnodes|19.47m/s
-162.159.42.66#Free|CFnodes|18.87m/s
-162.159.51.80#Free|CFnodes|0.0m/s
+162.159.49.145#Free CFnodes 23.9m/s
+162.159.32.22#Free CFnodes 22.84m/s
+198.41.223.173#Free CFnodes 22.34m/s
+162.159.24.121#Free CFnodes 21.8m/s
+162.159.62.230#Free CFnodes 21.7m/s
+162.159.60.177#Free CFnodes 21.47m/s
+162.159.48.114#Free CFnodes 19.67m/s
+162.159.14.62#Free CFnodes 19.47m/s
+162.159.42.66#Free CFnodes 18.87m/s
+162.159.51.80#Free CFnodes 0.0m/s

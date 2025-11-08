@@ -1,0 +1,10 @@
+104.16.199.233#Free|CFnodes|0.0m/s
+104.16.198.3#Free|CFnodes|0.0m/s
+104.16.215.7#Free|CFnodes|0.0m/s
+104.16.211.51#Free|CFnodes|0.0m/s
+104.16.209.245#Free|CFnodes|0.0m/s
+104.16.221.73#Free|CFnodes|0.0m/s
+104.16.201.249#Free|CFnodes|0.0m/s
+104.16.214.43#Free|CFnodes|0.0m/s
+104.16.213.138#Free|CFnodes|0.0m/s
+104.16.203.29#Free|CFnodes|0.0m/s

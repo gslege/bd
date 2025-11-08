@@ -27,7 +27,9 @@ let addressesapi = [
 
 "https://raw.githubusercontent.com/gslege/bd/refs/heads/main/sg.txt",
 "https://raw.githubusercontent.com/gslege/bd/refs/heads/main/jp.txt",
-"https://raw.githubusercontent.com/gslege/bd/refs/heads/main/us.txt"
+"https://raw.githubusercontent.com/gslege/bd/refs/heads/main/us.txt",
+"https://raw.githubusercontent.com/gslege/bd/refs/heads/main/de.txt",
+"https://raw.githubusercontent.com/gslege/bd/refs/heads/main/nl.txt"
 
 ];
 let addressesnotls = [];
